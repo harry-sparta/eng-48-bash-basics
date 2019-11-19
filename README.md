@@ -37,6 +37,13 @@ This is an amazing paragraph of text :D
 
 ## Git
 ### What is git?
+Similar to Windows command prompt (a non-Unix terminal evironment), Git is a set of command line programme that is design to excute on Unix style command-line environment.
+
+
+### Git bash
+Git Bash is an application for Windows environments which provides an emulation layer for a Git command line experience. Bash (Bourne Again Shell). Popular default shell on Linux and macOS.
+
+
 ### What are the basic commands?
 - How do I start tracking a folder?
     git init - creates a copy as a hidden file (.git)
