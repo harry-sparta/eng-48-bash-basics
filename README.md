@@ -17,6 +17,9 @@ This is an amazing paragraph of text :D
 
 ## Bash Commands
 ### What is bash?
+Bash is an acronym for Bourne Again Shell. A shell is a terminal application used to interface with an operating system through written commands. 
+
+
 ### What are the command for the following:
 - Were am I?
     pwd - present working directory
