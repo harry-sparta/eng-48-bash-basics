@@ -17,7 +17,7 @@ This is an amazing paragraph of text :D
 
 ## Bash Commands
 ### What is bash?
-Bash is an acronym for Bourne Again Shell. A shell is a terminal application used to interface with an operating system through written commands. 
+Bash is an acronym for Bourne Again Shell. A shell is a terminal application used to interface with an operating system through written commands.
 
 
 ### What are the command for the following:
@@ -72,3 +72,17 @@ Git Bash is an application for Windows environments which provides an emulation 
   3. copy SSH key to Github setting
 - Practice some Bash
 - Make md file for time & task management
+
+
+## Git write in file command:
+- cat .gitignore
+    - scans the file for any written content
+- echo 'venv/' > .gitignore
+    - writes venv/ into .gitignore
+    - but writing anymore will overwrite the first echo
+- echo '.idea/' >> .gitignore
+    - appends .idea/ into .gitignore
+
+## Git move a file or rename:
+- mv READEME.md README.md
+    - moving a file and not specify a directory will just rename the file with the new name giving
